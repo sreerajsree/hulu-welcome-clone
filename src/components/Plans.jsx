@@ -19,7 +19,7 @@ const Plans = () => {
         movies, Hulu Originals, kids shows, and more.
       </p>
       <div className="max-w-[90rem] mx-auto px-4 mt-12">
-        <div class="grid grid-cols-4 gap-1">
+        <div className="grid grid-cols-4 gap-1">
           <a href="/#">
             <div className="relative w-full h-full">
               <div className="absolute bg-gradient-to-b from-black/60 w-full top-0 h-full"></div>
