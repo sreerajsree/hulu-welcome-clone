@@ -1,3 +1,3 @@
 # Hulu Welcome Page made with React JS and Tailwind CSS
 
-![Screenshot](Capture.png)
+![Optional Text](/Capture.PNG)
